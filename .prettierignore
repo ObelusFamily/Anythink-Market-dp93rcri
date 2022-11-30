@@ -1,0 +1,5 @@
+# Ignore artifacts:
+docker-compose.yml
+
+# Ignore all HTML files:
+#*.html
