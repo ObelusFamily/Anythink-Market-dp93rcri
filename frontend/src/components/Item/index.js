@@ -9,7 +9,7 @@ import {
   ITEM_PAGE_UNLOADED,
 } from "../../constants/actionTypes";
 
-const placeholder = "../placeholder.png";
+const placeholder = '/placeholder.png';
 
 const mapStateToProps = (state) => ({
   ...state.item,
